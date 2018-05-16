@@ -14,5 +14,11 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "saludo":{
+    "mensaje": "Hola Cristian, mi nombre es Andrea y le ayudaré en sus consultas",
+	"tipo": "CHATBOT",
+	"nombreCliente": "Andrea",
+	"fechaHora": "2018-05-11"
   }
 }
