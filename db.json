@@ -14,6 +14,6 @@
   
   "clientes": [
      { "id": 1, "nombre": "Cristian", "apellido": "Lopez", "tipoTarjeta": "titanium" },
-     { "id": 2, "nombre": "Juan", "apellido": "Perez", "tipoTarjeta": "discover" },
+     { "id": 2, "nombre": "Juan", "apellido": "Perez", "tipoTarjeta": "discover" }
   ]
 }
